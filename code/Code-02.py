@@ -30,3 +30,4 @@ url = 'http://www.pythonchallenge.com/pc/def/{}.html'.format(str1)
 print(url)
 #最终打印出下一页url，过关
 #运用 count函数计算数量
+# http://www.pythonchallenge.com/pc/def/equality.html
