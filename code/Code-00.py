@@ -12,3 +12,4 @@ print(new_url)
 
 # 结果是 http://www.pythonchallenge.com/pc/def/274877906944.html
 # 成功进入下一题
+# 运用 replace 函数
