@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # http://www.pythonchallenge.com/pc/def/0.html
 # Hint: try to change the URL address.
 # 提示尝试改变URL, 把0改成1后，进入到一个页面
