@@ -21,3 +21,4 @@ print(url.translate(str_maketrans))
 new_url = 'http://www.pythonchallenge.com/pc/def/{}.html'.format('map'.translate(str_maketrans))
 print(new_url)
 #结果正确 第2题 网址是：http://www.pythonchallenge.com/pc/def/ocr.html
+#运用 maketrans 和 translate 函数
