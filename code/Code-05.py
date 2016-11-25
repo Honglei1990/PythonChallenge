@@ -34,4 +34,4 @@ def parse_content(line):
 for line in content:
     print(parse_content(line))
 
-#结果出现在眼前  
+#结果出现在眼前
