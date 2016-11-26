@@ -61,4 +61,4 @@ while num:
 print(comments)
 #结果为  HOCKEY.html  但进入后 网页提示 it's in the air. look at the letters.
 #它在空气中。看字母，返回结果查看 看字母的话原来是  oxygen（氧气）
-#重新使用  oxygen.html 后进入下一题
+#重新使用  oxygen.html 后进入
