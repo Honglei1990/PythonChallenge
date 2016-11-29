@@ -16,7 +16,7 @@ pw: 'BZh91AY&SY\x94$|\x0e\x00\x00\x00\x81\x00\x03$ \x00!\x9ah3M\x13<]\xc9\x14\xe
 ...此时联想到 busy too == bz2
 python3 使用bz2 来 压缩或解压缩  需要是二进制字符串才可以，所以字符串前边加上b 即可
 bz2.compress  压缩
-bz2.decompress 解压缩 
+bz2.decompress 解压缩
 '''
 import bz2
 
