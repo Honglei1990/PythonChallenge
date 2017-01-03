@@ -1,7 +1,8 @@
 # -*- coding:utf-8 -*-
 
 '''
-第 07 题
+第 08 题
+author: Honglei1990
 url：http://www.pythonchallenge.com/pc/def/integrity.html
 一个蜜蜂猜谜的图片，提示英文：where is the missing link?
 网页源代码：title: working hard?

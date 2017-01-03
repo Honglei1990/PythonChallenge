@@ -1,7 +1,8 @@
 # -*- coding:utf-8 -*-
 
 '''
-第 07 题
+第 09 题
+author: Honglei1990
 url：http://www.pythonchallenge.com/pc/return/good.html
 title : connect the dots （连接这些点？）
 <!--

@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 第 04 题
+author: Honglei1990
 url：http://www.pythonchallenge.com/pc/def/linkedlist.php
 tips：点击图片 进入一个网址 后缀名为 linkedlist.php?nothing=12345
 文本信息提示 and the next nothing is 44827，链接赋值后进入下一个网页 依然提示

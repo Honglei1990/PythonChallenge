@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 第 07 题
+author: Honglei1990
 url：http://www.pythonchallenge.com/pc/def/oxygen.html
 这一题的提示非常少，一张png格式图片
 源代码标题  smarty

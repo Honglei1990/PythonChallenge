@@ -1,7 +1,8 @@
 # -*- coding:utf-8 -*-
 
 '''
-第 07 题
+第 10 题
+author: Honglei1990
 url：http://www.pythonchallenge.com/pc/return/bull.html
 页面提示 ：len(a[30]) = ?
 点击公牛 出现 sequence.txt 页面  提示： a = [1, 11, 21, 1211, 111221,

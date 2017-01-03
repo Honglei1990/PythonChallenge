@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 第 06 题
+author: Honglei1990
 url：http://www.pythonchallenge.com/pc/def/channel.html
 有一个按钮提示 Paypal 捐赠。图片一个裤子的图标
 查看源代码提示 作者希望对 pythonchallenage 做出一些捐赠，想象一下作为解密游戏，是不是有其他玄机。 channel 管道。

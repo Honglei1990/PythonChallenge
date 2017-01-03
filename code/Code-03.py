@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 第 03 题
+author: Honglei1990
 url：http://www.pythonchallenge.com/pc/def/equality.html
 tips：One small letter, surrounded by EXACTLY three big bodyguards on each of its sides.
 (一封小信，周围有三个大保镖，两边各有一个。)一个小写字母 旁边三个大写字母

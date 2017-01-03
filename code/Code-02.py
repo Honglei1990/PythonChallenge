@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 第 02 题
+author: Honglei1990
 url：http://www.pythonchallenge.com/pc/def/ocr.html
 tips：recognize the characters. maybe they are in the book, but MAYBE they are in the page source.
 find rare characters in the mess below:

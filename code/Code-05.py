@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 第 05 题
+author: Honglei1990
 url：http://www.pythonchallenge.com/pc/def/peak.html
 tips：查看网页源代码 有一个  peakhell 标签  src=‘banner.p’
 进入banner.p 是混乱的txt字符，先读取数据尝试
